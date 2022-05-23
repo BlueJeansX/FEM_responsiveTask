@@ -11,7 +11,7 @@ body {
 
 /* Ovo je dizajn za mobitele */
 
-@media only screen and (max-width:600px) {
+@media only screen and (min-width:375px) {
 
     .container {
         display: grid;
